@@ -48,6 +48,8 @@
 **CODE NORM**
 
 
+- Be careful
+
 Comments 
     
     Don’t be afraid to use comments every time. It will always be useful 
