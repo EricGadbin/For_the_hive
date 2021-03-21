@@ -23,18 +23,21 @@
         (-) beetween each word 
         No dot (.) needed at the end 
 
-Commit rules
+- Commit rules
 
-    Structure of the commit: 
+     Structure of the commit: 
+  
         Intiales:type: subject 
         Example: EG:code: add emeralds to Minecraft
         
-    Type of the commit:  
+    Type of the commit: 
+    
         code: Coded a new thing 
         fix: a bug fix 
         refactor: A code change that neither fixes a bug nor adds a feature
         
     Subject of the branch: 
+    
         The subject contains a succinct description of the change 
         No dot (.) needed at the end
         
