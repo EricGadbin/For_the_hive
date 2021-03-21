@@ -50,19 +50,19 @@
 
 - Be careful
 
-Comments 
+    Comments 
     
-    Don’t be afraid to use comments every time. It will always be useful 
-    Always comment functions, with type of parameters and a breve description 
+        Don’t be afraid to use comments every time. It will always be useful 
+        Always comment functions, with type of parameters and a breve description 
 
-Functions
+    Functions
 
-    Use CamelCase 
-    Be precise, and make sure that its name is logical and understandable 
-    A function is small, and should do one thing, you can’t have a function of 1000 lines. 
+        Use CamelCase 
+        Be precise, and make sure that its name is logical and understandable 
+        A function is small, and should do one thing, you can’t have a function of 1000 lines. 
 
-Variables
+    Variables
 
-    Use snake_case  
-    Be precise, and make sure that its name is logical and understandable 
-    Do not use 1-character variables in pure code (i, x, y, k). It is only authorized in for functions for example 
+        Use snake_case  
+        Be precise, and make sure that its name is logical and understandable 
+        Do not use 1-character variables in pure code (i, x, y, k). It is only authorized in for functions for example 
