@@ -5,10 +5,12 @@
 - Branch rules 
 
     Structure of the branch:
+    
         type(subject) 
         Example: feat(support-full-game-editing)
         
     Type of the branch:
+    
         feat: A new feature 
         fix: A bug fix 
         docs: Documentation 
@@ -17,6 +19,7 @@
         test: Adding missing or correcting existing tests 
      
     Subject of the branch:
+    
         The subject contains a succinct description of the change 
         Imperative, present tense
         Don't capitalize first letters 
