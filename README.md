@@ -2,7 +2,7 @@
 
 **GITHUB NORM** 
 
-Branch rules 
+- Branch rules 
 
     Structure of the branch:
         type(subject) 
