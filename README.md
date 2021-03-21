@@ -4,7 +4,6 @@ GITHUB NORM
 
 
 Branch rules 
-
     **Structure of the branch:**
         type(subject) 
         Example: feat(support-full-game-editing)         
@@ -23,7 +22,6 @@ Branch rules
         No dot (.) needed at the end 
 
 Commit rules 
-
     **Structure of the commit:** 
         Intiales:type: subject 
         Example: EG:code: add emeralds to Minecraft 
