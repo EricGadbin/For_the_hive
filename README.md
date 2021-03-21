@@ -39,7 +39,7 @@ Commit rules
         No dot (.) needed at the end
         
   
-**C0ODE NORM**
+**CODE NORM**
 
 
 Comments 
