@@ -1,6 +1,6 @@
 # For_the_hive
 
-GITHUB NORM 
+**GITHUB NORM** 
 
 Branch rules 
 
